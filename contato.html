@@ -24,17 +24,21 @@
         
             <i>Email: develop.aprender@gmail.com<br></i>
         
-            <!-- Do not change the code! -->
-            <a id="foxyform_embed_link_192181" href="http://br.foxyform.com/">foxyform</a>
-            <script type="text/javascript">
-            (function(d, t){
-            var g = d.createElement(t),
-                s = d.getElementsByTagName(t)[0];
-            g.src = "http://br.foxyform.com/js.php?id=192181&sec_hash=da159ae4236&width=350px";
-            s.parentNode.insertBefore(g, s);
-            }(document, "script"));
-            </script>
-            <!-- Do not change the code! -->
+            <form name="contact" method="POST" data-netlify="true">
+                <p>
+                  <label>NOME: <input type="text" name="name" /></label>   
+                </p>
+                <p>
+                  <label>EMAIL: <input type="email" name="email" /></label>
+                </p>
+                <p>
+                  <label>MENSAGEM: <textarea name="message"></textarea></label>
+                </p>
+                <p>
+                  <button class="link" type="submit">Enviar</button>
+                </p>
+            </form>
+
         </div>
 
           <!-- Footer -->
