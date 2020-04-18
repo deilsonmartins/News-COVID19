@@ -1,5 +1,5 @@
 <h3 align="center">
-  #html #css
+  #HTML #CSS
 </h3>
 
 <p align="center">
