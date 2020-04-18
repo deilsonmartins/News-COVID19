@@ -27,7 +27,7 @@
 
 ## 💻 Sobre a Aplicação
 
-Plataforma web onde as empresas podem cadastrar spots para receber outros desenvolvedores nos quais podem ser incríveis talentos e se unirem a empresa.
+Este site foi criado com o propósito de apresentar as seis principais notícias sobre o COVID19 na minha opinião.
 
 ## 🚀 Tecnologias Utilizadas
 - **HTML** — Linguagem de marcação utilizada na construção de páginas na Web
